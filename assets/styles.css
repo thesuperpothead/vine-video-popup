@@ -1,0 +1,6 @@
+.plyr__control--overlaid {background: rgba(251, 155, 5, 0.8);}
+.plyr--video .plyr__control.plyr__tab-focus, .plyr--video .plyr__control:hover, .plyr--video .plyr__control[aria-expanded=true] {background: rgba(251, 155, 5, 1);}
+.plyr--full-ui input[type=range] {color: rgba(251, 155, 5, 1);}
+.plyr__menu__container .plyr__control[role=menuitemradio][aria-checked=true]::before {background: rgba(251, 155, 5, 1);}
+#vp-video-popup {width: min(80vw, 80vh * 1.77);}
+.mfp-content {display: inline-flex;align-items: center;justify-content: center;}
